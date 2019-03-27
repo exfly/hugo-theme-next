@@ -10,13 +10,13 @@ NexT is a simple and animated theme. I port it from Hexo to [Hugo](https://gohug
 
 ## Usage
 
-1. download theme file: `git clone https://github.com/xtfly/hugo-theme-next.git next`
+1. download theme file: `git clone https://github.com/exfly/hugo-theme-next next`
 
 2. copy `next` directory to `themes` directory in your hugo site
 
 3. move `config.toml` to the root directory in your hugo site, and modify it to the actual information for your site.
 
-4. create some markdown files in directory(content/post), like https://github.com/xtfly/xtfly.github.io/tree/hugo/content
+4. create some markdown files in directory(content/post), like https://github.com/exfly/exfly.github.io/tree/hugo/content
 
 5. start hugo server in root directory: `hugo server`
 
